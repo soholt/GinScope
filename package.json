@@ -1,0 +1,33 @@
+{
+  "name": "ginscope",
+  "version": "0.0.1",
+  "description": "Arduino based Html Instruments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soholt/ginscope.git"
+  },
+  "keywords": [
+    "arduino",
+    "serial",
+    "oscilloscope",
+    "fft",
+    "function",
+    "generator",
+    "html",
+    "instruments"
+  ],
+  "author": "Gintaras Valatka",
+  "license": "todo",
+  "bugs": {
+    "url": "https://github.com/soholt/ginscope/issues"
+  },
+  "homepage": "https://github.com/soholt/ginscope#readme",
+  "dependencies": {
+    "http-server": "^0.9.0",
+    "p5.serialserver": "0.0.24"
+  }
+}
