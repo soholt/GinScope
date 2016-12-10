@@ -46,13 +46,13 @@ Arduino --> SPI -----> Raspberry Pi -->    |   -> HDD
 ###### Easy adding extra hardware via i2c like like lux/rgb sensing*
 ###### Also possible to increase i2c speed to 400 kHz [http://forum.arduino.cc/index.php?topic=16793.0]
 
-(click to play the video, digital pins at the top, will make better video soon)
+(click to play the video)
 
-[![working prototype](https://img.youtube.com/vi/9R-swoJRmVQ/0.jpg)](https://youtu.be/9R-swoJRmVQ)
+[![working prototype](https://img.youtube.com/vi/jmDLRDejVgY/0.jpg)](https://youtu.be/jmDLRDejVgY)
 
 Working prototype based on https://p5js.org/
 
-For this example, NXP PCF8591 adc converter was used, Arduino analog pins can be used too. As you can see from the sine wave, only 'half job done' (Todo: display full wave..)
+For this example, NXP PCF8591 adc converter was used. Arduino analog pins can be used too. As you can see from the sine wave, only 'half job done' - or nearly all
 The advantage of using I2C, is easier to adapt sketches across Arduino world.
 
 NXP PCF8591 spec: http://www.nxp.com/documents/data_sheet/PCF8591.pdf
