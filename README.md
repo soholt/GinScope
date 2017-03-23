@@ -1,4 +1,4 @@
-# ginscope - [Lepus Timidus]
+# ginscope - [Lepus Timidus] https://hackaday.io/project/19374-ginscope
 ## Html5 Sci Toolbox, containing variuos instruments*
 There are quite a few options out there, speaking various/proprietary protocols etc.
 We are long past the point of being able to watch videos, we can run things inside web browsers too :D
@@ -147,4 +147,4 @@ Probe http://www.instructables.com/id/DIY-Oscilloscopes/
 Looking forward to open source hardware revolution https://www.sifive.com/
 Wishing for reference equipment and more, -
 
-Gin
+Gin-Neris
